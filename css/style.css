@@ -608,18 +608,15 @@ body {
 }
 
 .card__picture--1 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.1))), url(/img/custom1.jpg);
-  background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url(/img/custom1.jpg);
+  background-image: url(/img/custom1.jpg);
 }
 
 .card__picture--2 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.1))), url(/img/custom2.jpg);
-  background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url(/img/custom2.jpg);
+  background-image: url(/img/custom2.jpg);
 }
 
 .card__picture--3 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.1))), url(/img/custom3.jpg);
-  background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url(/img/custom3.jpg);
+  background-image:url(/img/custom3.jpg);
 }
 
 .card__heading {
@@ -1243,9 +1240,8 @@ body {
 
 /*====================HEADER========================*/
 .header {
-  height: 90vh;
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(0, 0, 0, 0.8)), to(rgba(0, 0, 0, 0.1))), url(/img/hero12.jpg);
-  background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)), url(/img/hero12.jpg);
+  height: 90vh
+  background-image: url(/img/hero12.jpg);
   background-size: cover;
   background-position: top;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
@@ -1551,8 +1547,7 @@ body {
 
 .section-stories {
   padding: 10rem 0;
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(0, 0, 0, 0.8)), to(rgba(0, 0, 0, 0.1))), url(/img/moto6.jpg);
-  background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)), url(/img/moto6.jpg);
+  background-image:url(/img/moto6.jpg);
   background-size: cover;
 }
 
