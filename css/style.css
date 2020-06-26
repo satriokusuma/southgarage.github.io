@@ -1240,7 +1240,7 @@ body {
 
 /*====================HEADER========================*/
 .header {
-  height: 90vh
+  height: 90vh;
   background-image: url(/img/hero12.jpg);
   background-size: cover;
   background-position: top;
