@@ -1559,6 +1559,7 @@ body {
 
 @media (max-width: 56.25em) {
   .section-stories {
+    background-size: contain;
     padding: 5rem 0;
   }
 }
